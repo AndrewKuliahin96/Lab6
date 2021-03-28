@@ -1,0 +1,2 @@
+rootProject.name = "Sensors data list"
+include ':app'
